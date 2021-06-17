@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fd1e083-3603-408b-8e0e-aa2a6ddb0687" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/dart" />
+  </component>
+  <component name="ProjectId" id="1qShPNtu0Teb3Ku4Orj55IlrDSl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../second_projectt" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ParkGeunTae\Desktop\ill\PBL\project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.viewer">
+    <configuration name="data_manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PBL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_manager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kinematics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PBL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kinematics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="viewer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PBL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/viewer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.viewer" />
+        <item itemvalue="Python.kinematics" />
+        <item itemvalue="Python.data_manager" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fd1e083-3603-408b-8e0e-aa2a6ddb0687" name="Default Changelist" comment="" />
+      <created>1617078873657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617078873657</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1196" y="307" key="FileChooserDialogImpl" timestamp="1617447776757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1196" y="307" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617447776757" />
+    <state width="1103" height="242" key="GridCell.Tab.0.bottom" timestamp="1621944912966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1216" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1618548186922" />
+    <state width="1103" height="242" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621944912966" />
+    <state width="1103" height="242" key="GridCell.Tab.0.center" timestamp="1621944912966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1216" height="265" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1618548186921" />
+    <state width="1103" height="242" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621944912966" />
+    <state width="1103" height="242" key="GridCell.Tab.0.left" timestamp="1621944912966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1216" height="265" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1618548186921" />
+    <state width="1103" height="242" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621944912966" />
+    <state width="1103" height="242" key="GridCell.Tab.0.right" timestamp="1621944912966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1216" height="265" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1618548186922" />
+    <state width="1103" height="242" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621944912966" />
+    <state x="866" y="306" key="SettingsEditor" timestamp="1623917216178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="630" y="280" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1618547327568" />
+    <state x="866" y="306" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1623917216178" />
+    <state x="390" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1623917567557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="390" y="334" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620356051347" />
+    <state x="390" y="334" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623917567557" />
+    <state x="569" y="63" width="994" height="974" key="dock-window-1" timestamp="1623917596550">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-93" y="153" width="1178" height="687" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620359317908" />
+    <state x="569" y="63" width="994" height="974" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1623917596550" />
+    <state x="890" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1619876115141">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="890" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1619876115141" />
+  </component>
+</project>
